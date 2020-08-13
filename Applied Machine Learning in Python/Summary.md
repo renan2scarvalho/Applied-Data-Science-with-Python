@@ -19,4 +19,4 @@ The probability functions are:
 9. Binomial
 10. Weibull
 
-Each distribution has a brief introduction explaining applications and *external links*.
+Each distribution has a **brief introduction** explaining applications and **external links**.
