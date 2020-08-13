@@ -17,5 +17,6 @@ The probability functions are:
 7. ChiSquare
 8. Student t
 9. Binomial
-10. Weibull 
+10. Weibull
+
 Each distribution has a brief introduction explaining applications and *external links*.
