@@ -20,3 +20,5 @@ The probability functions are:
 10. Weibull
 
 Each distribution has a **brief introduction** explaining applications and **external links**.
+
+PS: Since the plots are dynamic, they don't show in the Jupyter, so it must be downloaded.
