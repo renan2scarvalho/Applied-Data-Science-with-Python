@@ -1,6 +1,6 @@
-# Applied-Data-Science-with-Python
+# Applied Data Science with Python
 
-This respository contains similar works as proposed on the University of Michigan ["Applied Data Science with Python Specialization"](https://www.coursera.org/specializations/data-science-python) assignments at the end of each Module.
+This respository was created in order to reproduce similar codes as demanded in some of the University of Michigan ["Applied Data Science with Python Specialization"](https://www.coursera.org/specializations/data-science-python) assignments at the end of each Module. Since publishing the original codes is agains the Cousera's Hononor Code, I tried to adapt some of the main propositions here.
 
 The Specialization was divided into:
 1. [Introduction to Data Science with Python](https://github.com/renan2scarvalho/Applied-Data-Science-with-Python/tree/master/1%20Introduction%20to%20Data%20Science%20with%20Python)
