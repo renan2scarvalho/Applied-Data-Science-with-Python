@@ -11,7 +11,7 @@ Here we'll analyze the [crimes](https://www.kaggle.com/dbwaller/official-crime-d
 
 But here we'll perform a t-test to check our hypothesis: 
  
-<b>Hypothesis H1:</b> when a recession happens, the criminality increases.
+**Hypothesis H1:** when a recession happens, the criminality increases.
 
 If the p_value < 0.01 we reject the null hypothesis (H0), which means that the criminality stays the same, indepedent of recession periods.
 
@@ -22,14 +22,10 @@ Let's define recession, recession bottom, and end end of recession, which are on
 - <b>Recession</b>: we consider a recession 2 consecutive years of negative growth, which ends with 2 consecutive years of GDP growth.
 - <b>Recession bottom</b>: year with the lowest GDP.
 
-$$ Recession Begin: GDP_{2010} > GDP_{2011} > GDP_{2012} $$
-
-$$ Recession End: GDP_{2014} > GDP_{2013} > GDP_{2012} $$
-
-$$ Recession Bottom: GDP_{2012} $$
+<img align="center" src="https://user-images.githubusercontent.com/63553829/92014715-0c5a3500-ed26-11ea-8dc0-54685f95370b.png">
 
 Here some other definitions must be made. One should use the Real GDP as the parameter for this analysis, since it considers inflation. The GDP Growth Rate present in the table takes the Year of 2010 as a baseline. Here we'll compute the growht based in the yearly changes, not applying this baseline. so the Growth is calculated as follows:
 
-$$ Growth Rate = \frac{(GDP_{Year+1} - GDP_{Year})}{GDP_{Year}} $$
+![image](https://user-images.githubusercontent.com/63553829/92014734-167c3380-ed26-11ea-8798-582c946e6a1b.png)
 
 The Growth Rate isn't necessary for this analysis, since we could perform it only with GDP values. However, they are easier to visualize due to smaller dimensions in comparison with GDP.
