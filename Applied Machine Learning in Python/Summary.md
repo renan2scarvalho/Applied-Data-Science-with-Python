@@ -4,6 +4,8 @@
 - Create and evaluate data clusters;
 - Build features that meet analysis needs.
 
+## Work
+
 Here we'll analyze the [crimes](https://www.kaggle.com/dbwaller/official-crime-data-sao-paulo-statebrazil-ssp?fbclid=IwAR239ZovM1Zz3lIccXdxTuIHgaPB_G_YkI6G4HIXu4WUQWqC3Jz8Je3fU3o) in the State of São Paulo, Brazil, as well as its [GDP](https://www.seade.gov.br/produtos/pib-anual/). From these datasets we can try to check several things:
 
 - The population increases in the same rate as the GDP?
