@@ -22,7 +22,7 @@ Let's define recession, recession bottom, and end end of recession, which are on
 - <b>Recession</b>: we consider a recession 2 consecutive years of negative growth, which ends with 2 consecutive years of GDP growth.
 - <b>Recession bottom</b>: year with the lowest GDP.
 
-<img align="center" src="https://user-images.githubusercontent.com/63553829/92014715-0c5a3500-ed26-11ea-8dc0-54685f95370b.png">
+<p align="center"> <img src="https://user-images.githubusercontent.com/63553829/92014715-0c5a3500-ed26-11ea-8dc0-54685f95370b.png"> </p>
 
 Here some other definitions must be made. One should use the Real GDP as the parameter for this analysis, since it considers inflation. The GDP Growth Rate present in the table takes the Year of 2010 as a baseline. Here we'll compute the growht based in the yearly changes, not applying this baseline. so the Growth is calculated as follows:
 
