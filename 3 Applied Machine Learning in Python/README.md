@@ -16,4 +16,4 @@ This works aims to predict a Cesarian based on some attributes, presented above.
 - Heart Problem: [1,0] -> 0 = apt, 1 = inept
 - Cesarian: [0,1] -> 0 = No, 1 = Yes
 
-This work approaches Initial Data Analysis (IDA), Exploratory Data Analysis (EDA), Feature Engineering, and Machine Learning Algorithms (linear classifiers and tree-based classifiers).
+This work approaches Initial Data Analysis (IDA), Exploratory Data Analysis (EDA), Feature Engineering, and Machine Learning Algorithms (linear classifiers and tree-based classifiers), as well as SHAP (*SHapley Additive exPlanations*) in order to explain the model's outputs.
