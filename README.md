@@ -8,3 +8,5 @@ The Specialization was divided into:
 3. [Applied Machine Learning in Python](https://github.com/renan2scarvalho/Applied-Data-Science-with-Python/tree/master/3%20Applied%20Machine%20Learning%20in%20Python)
 4. [Applied Text Mining in Python](https://github.com/renan2scarvalho/Applied-Data-Science-with-Python/tree/master/4%20Applied%20Text%20Mining%20in%20Python)
 5. [Applied Social Network Analysis in Python](https://github.com/renan2scarvalho/Applied-Data-Science-with-Python/tree/master/5%20Applied%20Social%20Network%20Analysis%20in%20Python)
+
+PS: if any of the notebooks doesn't render, use this [link](https://nbviewer.jupyter.org/) to see them.
